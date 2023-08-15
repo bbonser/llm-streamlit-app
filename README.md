@@ -8,7 +8,9 @@ Clone the repo to your local machine
 
 ```git clone https://github.com/bbonser/llm-streamlit-app```
 
-Create a .env file and add your OpenAI API Key as ```OPENAI_API_KEY="YOUR_API_KEY"```.
+Open in your IDE of choice like VSCode.
+
+Rename the ```.env.local``` to ```.env``` and add your OpenAI API Key as ```OPENAI_API_KEY="YOUR_API_KEY"```.
 
 You can generate an API key from OpenAI by navigating to https://platform.openai.com/ --> Personal --> View API Keys --> Create new Secret Key
 
