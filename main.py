@@ -11,7 +11,7 @@ load_dotenv()
 # Access environment variables
 api_key = os.environ['OPENAI_API_KEY']
 
-st.title('Let me answer anything for you!')
+st.title('Ask me anything!')
 prompt = st.text_input("Enter your text here and hit Enter:")
 
 llm = OpenAI(temperature=0.6)
