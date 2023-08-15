@@ -1,10 +1,16 @@
 # llm-streamlit-app
 ## Intructions
-### Must also have Python, and Docker installed.
+## Must also have Python, and Docker installed.
+
+This is a quick and simple way to use Langcahin with OpenAI.
 
 Clone the repo to your local machine
 
 ```git clone https://github.com/bbonser/llm-streamlit-app```
+
+Create a .env file and add your OpenAI API Key as ```OPENAI_API_KEY="YOUR_API_KEY"```.
+
+You can generate an API key from OpenAI by navigating to https://platform.openai.com/ --> Personal --> View API Keys --> Create new Secret Key
 
 Navigate to the folder where you pulled this down to and run the following command to build the Dockerfile and install the dependencies.
 
