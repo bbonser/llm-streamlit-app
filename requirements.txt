@@ -1,4 +1,6 @@
 OpenAI
-langchain
+langchain>=0.0.312
 streamlit
 python-dotenv
+pillow>=10.0.1
+pyarrow>=14.0.1
