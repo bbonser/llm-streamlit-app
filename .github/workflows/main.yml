@@ -20,7 +20,7 @@ jobs:
       
       - name: Extract metadata (tags, labels) for Docker
         id: meta
-        uses: docker/metadata-action@115662203e5f4c9b240a57397f721baaab82a488
+        uses: docker/metadata-action@8cb0002d6ab3471151815bd00e559b0e838a8f73
         with:
           images: bbonser/llm-agent
       
