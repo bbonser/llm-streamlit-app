@@ -5,7 +5,7 @@ python-dotenv
 pillow>=10.2.0
 pyarrow>=14.0.1
 requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
-tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
 ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
