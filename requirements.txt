@@ -19,3 +19,4 @@ prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulner
 pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 tqdm>=4.66.3 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
