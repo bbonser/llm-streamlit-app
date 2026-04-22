@@ -1,5 +1,5 @@
 OpenAI
-langchain>=0.0.325
+langchain>=1.2.15
 streamlit
 python-dotenv
 pillow>=10.2.0
