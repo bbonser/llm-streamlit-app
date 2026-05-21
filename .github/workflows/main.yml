@@ -25,7 +25,7 @@ jobs:
           images: bbonser/llm-agent
       
       - name: Build and push Docker image
-        uses: docker/build-push-action@e25db879d025485a4eebd64fea9bb88a43632da6
+        uses: docker/build-push-action@f9f3042f7e2789586610d6e8b85c8f03e5195baf
         with:
           context: .
           push: true
